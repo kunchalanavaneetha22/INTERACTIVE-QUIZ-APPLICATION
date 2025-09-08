@@ -26,7 +26,7 @@ HTML5
 
 Provides the structure of the webpage.
 
-Tags like <form>, <input>, <button>, and <div> are used to organize quiz content.
+Tags like form, input, button, and div are used to organize quiz content.
 
 CSS3
 
