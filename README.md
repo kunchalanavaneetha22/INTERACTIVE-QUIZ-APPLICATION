@@ -11,6 +11,7 @@
 "DURATION":8 WEEKS
 
 "MENTOR":NEELA SANTHOSH KUMAR
+
 The interactive quiz consists of several questions stored in a structured JavaScript array. Each question includes four options, and users can select one option per question. Once all questions are answered, the user can submit their responses and view their final score.
 
 Upon loading, the quiz application dynamically generates the quiz content, including questions and answer choices. The interface ensures that the submit button is only enabled once all questions have been answered. After submission, the score is calculated by comparing the user’s selected answers to the correct ones, and the result is displayed instantly on the screen.
