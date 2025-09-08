@@ -93,3 +93,7 @@ Can be used in live workshops or webinars.
 Portfolio Projects
 
 Showcases skills in front-end development for students and developers.
+
+#OUTPUT
+
+<img width="1884" height="913" alt="Image" src="https://github.com/user-attachments/assets/71cf6109-2f00-4f21-87f4-b57c064c5baa" />
