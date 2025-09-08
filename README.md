@@ -1,16 +1,16 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
-"COMPANY":CODTECH IT SOLUTIONS
+*COMPANY*:CODTECH IT SOLUTIONS
 
-"NAME":KUNCHALA NAVANEETHA
+*NAME*:KUNCHALA NAVANEETHA
 
-"INTERN ID":CT08DZ185
+*INTERN ID*:CT08DZ185
 
-"DOMAIN":FRONTEND DEVELOPMENT
+*DOMAIN*:FRONTEND DEVELOPMENT
 
-"DURATION":8 WEEKS
+*DURATION*:8 WEEKS
 
-"MENTOR":NEELA SANTHOSH KUMAR
+*MENTOR*:NEELA SANTHOSH KUMAR
 
 The interactive quiz consists of several questions stored in a structured JavaScript array. Each question includes four options, and users can select one option per question. Once all questions are answered, the user can submit their responses and view their final score.
 
